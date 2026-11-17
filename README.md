@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:064E3B,70:991B1B,100:D4AF37&height=220&section=header&text=TALLER%20BIBLIOTECA%20%26%20APE%204&fontSize=48&fontColor=D4AF37&stroke=000000&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=INTEGRACI%C3%93N%20DE%20CLASES%20Y%20OBJETOS%20%C2%B7%20JAVA%20%26%20C%2B%2B&descSize=16&descAlignY=62" width="100%" alt="Taller Biblioteca & APE 4">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:046A38,50:DA291C,100:FFCC00&height=220&section=header&text=TALLER%20BIBLIOTECA%20Y%20APE%204&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=INTEGRACION%20DE%20CLASES%20Y%20OBJETOS%20-%20JAVA%20Y%20C%2B%2B&descSize=16&descAlignY=62" width="100%" alt="Taller Biblioteca y APE 4">
 
-# 🐐 TALLER BIBLIOTECA & APE 4 · EL GOAT DE LOS OBJETOS 🐐
+# 🇵🇹 TALLER BIBLIOTECA & APE 4 · EL GOAT DE LOS OBJETOS 🐐
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3500&pause=1200&color=D4AF37&background=0D1117&center=true&vCenter=true&width=900&height=70&lines=%E2%9A%BD+SIUUUUU%21+CERO+ERRORES+DE+COMPILACION+%E2%9A%BD;%F0%9F%90%90+EL+GOAT+DE+LA+PROGRAMACION+ORIENTADA+A+OBJETOS+%F0%9F%90%90;%F0%9F%8F%86+UNIVERSIDAD+TECNICA+DE+AMBATO+%F0%9F%8F%86;%E2%9A%BD+CINCO+EJERCICIOS%2C+CINCO+CLUBES%2C+UN+SOLO+CR7+%E2%9A%BD" width="100%" alt="Texto animado de la APE 4">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3500&pause=1200&color=FFCC00&background=0D1117&center=true&vCenter=true&width=900&height=70&lines=%E2%9A%BD+SIUUUUU%21+CERO+ERRORES+DE+COMPILACION+%E2%9A%BD;%F0%9F%90%90+EL+GOAT+DE+LA+PROGRAMACION+ORIENTADA+A+OBJETOS+%F0%9F%90%90;%F0%9F%8F%86+UNIVERSIDAD+TECNICA+DE+AMBATO+%F0%9F%8F%86;%E2%9A%BD+CINCO+EJERCICIOS%2C+CINCO+CLUBES%2C+UN+SOLO+CR7+%E2%9A%BD" width="100%" alt="Texto animado de la APE 4">
 
 </div>
 
@@ -17,17 +17,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BASE-FUNCHAL%2C_MADEIRA-D4AF37?style=for-the-badge&labelColor=18181B" alt="BASE: FUNCHAL, MADEIRA">
-<img src="https://img.shields.io/badge/CR7-DERECK_PAREDES-D4AF37?style=for-the-badge&labelColor=18181B" alt="CR7: DERECK PAREDES">
-<img src="https://img.shields.io/badge/MISI%C3%93N-CLASES_Y_OBJETOS-D4AF37?style=for-the-badge&labelColor=18181B" alt="MISIÓN: CLASES Y OBJETOS">
+<img src="https://img.shields.io/badge/BASE-FUNCHAL%2C_MADEIRA-FFCC00?style=for-the-badge&labelColor=18181B" alt="BASE: FUNCHAL, MADEIRA">
+<img src="https://img.shields.io/badge/CR7-DERECK_PAREDES-FFCC00?style=for-the-badge&labelColor=18181B" alt="CR7: DERECK PAREDES">
+<img src="https://img.shields.io/badge/MISI%C3%93N-CLASES_Y_OBJETOS-FFCC00?style=for-the-badge&labelColor=18181B" alt="MISIÓN: CLASES Y OBJETOS">
 
 <br>
 
-<img src="https://img.shields.io/badge/ASIGNATURA-ALGORITMOS_Y_L%C3%93GICA-991B1B?style=flat-square&labelColor=18181B" alt="ASIGNATURA: ALGORITMOS Y LÓGICA">
-<img src="https://img.shields.io/badge/LENGUAJES-JAVA_%26_C%2B%2B-064E3B?style=flat-square&labelColor=18181B" alt="LENGUAJES: JAVA Y C++">
-<img src="https://img.shields.io/badge/TEMA-APE_4-991B1B?style=flat-square&labelColor=18181B" alt="TEMA: APE 4">
-<img src="https://img.shields.io/badge/CAMISETA-N%C2%BA_7-064E3B?style=flat-square&labelColor=18181B" alt="CAMISETA: Nº 7">
-<img src="https://img.shields.io/badge/ESTADO-GOAT_MODE-991B1B?style=flat-square&labelColor=18181B" alt="ESTADO: GOAT MODE">
+<img src="https://img.shields.io/badge/ASIGNATURA-ALGORITMOS_Y_L%C3%93GICA-DA291C?style=flat-square&labelColor=18181B" alt="ASIGNATURA: ALGORITMOS Y LÓGICA">
+<img src="https://img.shields.io/badge/LENGUAJES-JAVA_%26_C%2B%2B-046A38?style=flat-square&labelColor=18181B" alt="LENGUAJES: JAVA Y C++">
+<img src="https://img.shields.io/badge/TEMA-APE_4-DA291C?style=flat-square&labelColor=18181B" alt="TEMA: APE 4">
+<img src="https://img.shields.io/badge/CAMISETA-N%C2%BA_7-046A38?style=flat-square&labelColor=18181B" alt="CAMISETA: Nº 7">
+<img src="https://img.shields.io/badge/ESTADO-GOAT_MODE-DA291C?style=flat-square&labelColor=18181B" alt="ESTADO: GOAT MODE">
 
 <br><br>
 
@@ -58,7 +58,7 @@ Este repositorio reúne los 5 ejercicios de la APE 4. Con ellos se practica la i
 Como en cualquier carrera de leyenda, el orden importa: se empieza con un objeto dentro de otro (Libro y Autor) y se termina con tres clases jugando como un solo equipo (el Taller Biblioteca).
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=900&pause=380&color=D4AF37&background=0A0A0A&center=false&vCenter=false&width=600&height=161&multiline=true&lines=++%3E+CALENTANDO+EN+EL+CAMPO+DE+ENTRENAMIENTO+...+%5B+OK+%5D;++%3E+EJERCICIOS+1-2%3A+ATRIBUTOS+Y+RETORNOS+.......+%5B+OK+%5D;++%3E+EJERCICIOS+3-4%3A+OBJETOS+COMO+PARAMETRO+.....+%5B+OK+%5D;++%3E+EJERCICIO+5%3A+TALLER+BIBLIOTECA+............+%5B+OK+%5D;++%3E+COMPILANDO+EN+JAVA+Y+C%2B%2B+..................+%5B+OK+%5D;++%3E+RESULTADO%3A+5+GOLES+%C2%B7+SIUUUUU+%E2%96%88" alt="Terminal animada de la APE 4">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=900&pause=380&color=FFCC00&background=0A0A0A&center=false&vCenter=false&width=600&height=161&multiline=true&lines=++%3E+CALENTANDO+EN+EL+CAMPO+DE+ENTRENAMIENTO+...+%5B+OK+%5D;++%3E+EJERCICIOS+1-2%3A+ATRIBUTOS+Y+RETORNOS+.......+%5B+OK+%5D;++%3E+EJERCICIOS+3-4%3A+OBJETOS+COMO+PARAMETRO+.....+%5B+OK+%5D;++%3E+EJERCICIO+5%3A+TALLER+BIBLIOTECA+............+%5B+OK+%5D;++%3E+COMPILANDO+EN+JAVA+Y+C%2B%2B+..................+%5B+OK+%5D;++%3E+RESULTADO%3A+5+GOLES+%C2%B7+SIUUUUU+%E2%96%88" alt="Terminal animada de la APE 4">
 </div>
 
 ### 🎯 Objetivos de la temporada
@@ -81,7 +81,7 @@ Como en cualquier carrera de leyenda, el orden importa: se empieza con un objeto
 Este partido se juega en solitario. Un solo jugador, la camiseta número 7 y todos los ejercicios:
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1300&color=D4AF37&background=0D1117&center=true&vCenter=true&width=860&height=52&lines=GOAT+unico+%E2%80%BA+PAREDES+ACOSTA+DERECK+SHAIR+%E2%80%BA+Ejercicios+del+1+al+5" width="100%" alt="Integrante del repositorio">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1300&color=FFCC00&background=0D1117&center=true&vCenter=true&width=860&height=52&lines=GOAT+unico+%E2%80%BA+PAREDES+ACOSTA+DERECK+SHAIR+%E2%80%BA+Ejercicios+del+1+al+5" width="100%" alt="Integrante del repositorio">
 </div>
 
 | N.º | Integrante | Posición en la cancha | Componentes |
@@ -237,7 +237,7 @@ g++ *.cpp -o programa
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1500&color=D4AF37&background=0D1117&center=true&vCenter=true&width=860&height=56&lines=Cinco+ejercicios.+Cinco+goles.+SIUUUUU%21;El+trofeo+de+la+APE+4+ya+esta+en+la+vitrina.;El+GOAT+del+codigo+nunca+deja+de+entrenar." width="100%" alt="Frases finales">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1500&color=FFCC00&background=0D1117&center=true&vCenter=true&width=860&height=56&lines=Cinco+ejercicios.+Cinco+goles.+SIUUUUU%21;El+trofeo+de+la+APE+4+ya+esta+en+la+vitrina.;El+GOAT+del+codigo+nunca+deja+de+entrenar." width="100%" alt="Frases finales">
 
 *«El partido terminó, mi crack. El marcador quedó 5 a 0 y el trofeo ya está en la vitrina. Ahora, a entrenar para la próxima APE.»*
 
@@ -245,6 +245,6 @@ Si llegaste hasta aquí, el estadio entero te aplaude. ⚽🐐🏆🇵🇹
 
 [⬆️ Volver al inicio](#inicio)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,30:991B1B,65:064E3B,100:000000&height=120&section=footer" width="100%" alt="Pie de página">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:DA291C,100:046A38&height=120&section=footer" width="100%" alt="Pie de página">
 
 </div>
